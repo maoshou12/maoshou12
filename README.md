@@ -3,10 +3,10 @@
 
       AsYouWish-1.21原版优化（AYW）
       寒鸦-1.21科技冒险向整合包（大饼🫓）
-- 💞️ 我正在运营个我的世界服务器！
+- 💞️ 个人运营的服务器
 
       AYW-1.21生电服
-- 📫 如何联系我？
+- 📫 我的邮箱
 
       shouyixue1@gamil.com
       maoshou121@icloud.com
