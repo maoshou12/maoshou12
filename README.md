@@ -1,4 +1,5 @@
-- # 👋 Hi, I’m SoeXe
+#简介
+- 👋 Hi, I’m SoeXe
 - 👀 我正在制作我的世界整合包
 
       AsYouWish-1.21原版优化（AYW）
