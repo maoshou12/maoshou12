@@ -14,23 +14,23 @@
 <details>
 <summary>💞️ 个人运营的服务器</summary>
 
-AYW-1.21.4生电服
+    AYW-1.21.4生电服
 
 </details>
 
 <details>
 <summary>📫 我的邮箱</summary>
 
--shouyixue1@gamil.com
--maoshou121@icloud.com
+    shouyixue1@gamil.com
+    maoshou121@icloud.com
 
 </details>
 
 <details>
 <summary>🐧 联系方式</summary>
 
-交流群：965904086
-个人QQ：3341005808
+    交流群：965904086
+    个人QQ：3341005808
 
 </details>
   
