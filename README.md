@@ -15,4 +15,3 @@
       交流群：965904086
       个人QQ：3341005808
 
-[![新浪微博](images/sina.png "我的新浪微博")]( http://weibo.com/kayvon "新浪微博")
