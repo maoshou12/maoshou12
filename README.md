@@ -15,5 +15,4 @@
       交流群：965904086
       个人QQ：3341005808
 
-[![我的github](https://github.com/kaivin/markdown/raw/master/images/github.png "我的github")][githubs]
-[githubs]:https://github.com/kaivin/ "我的github"
+[![新浪微博](images/sina.png "我的新浪微博")]( http://weibo.com/kayvon "新浪微博")
