@@ -2,11 +2,10 @@
 - 👋 Hi, I’m SoeXe
 - 👀 我正在制作我的世界整合包
 
-      AsYouWish-1.21原版优化（AYW）
-      Poet of the Winds-风语者-1.21冒险向整合包（大饼🫓）
+      1.21.1Neoforge整合包（大饼🫓）
 - 💞️ 个人运营的服务器
 
-      AYW-1.21生电服
+      AYW-1.21.4生电服
 - 📫 我的邮箱
 
       shouyixue1@gamil.com
@@ -15,3 +14,5 @@
 
       交流群：965904086
       个人QQ：3341005808
+
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
