@@ -19,8 +19,8 @@
 
 | Rank | Languages     |
 |-----:|---------------|
-|   1  |30%English     |
-|   2  |80%中文        |
+|   1  |80%中文        |
+|   2  |30%English     |
 |   3  |5%español      |
 
 </details>
