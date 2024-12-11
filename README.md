@@ -16,6 +16,8 @@
       个人QQ：3341005808
 <details>
 <summary>My top languages</summary>
+
+| Rank | Languages     |
 |-----:|---------------|
 |   1  |30%English     |
 |   2  |80%中文        |
