@@ -1,7 +1,7 @@
 # 简介
 - 👋 Hi, I’m SoeXe
 <details>
-<summary>我画的大饼</summary>
+<summary>My dreams</summary>
 
 | Rank | Things |
 |-----:|-----------|
