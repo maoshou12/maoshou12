@@ -14,5 +14,10 @@
 
       交流群：965904086
       个人QQ：3341005808
+| Rank | Languages |
+|-----:|---------------|
+|   1  |30%English     |
+|   2  |80%中文        |
+|   3  |5%español      |
 
 ![Cow3](https://github.com/maoshou12/meme/blob/main/igotaplan.jpg?raw=true 'Cow3')
