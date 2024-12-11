@@ -1,8 +1,15 @@
 # 简介
 - 👋 Hi, I’m SoeXe
-- 👀 我正在制作我的世界整合包
+<details>
+<summary>我画的大饼</summary>
 
-      1.21.1Neoforge整合包（大饼🫓）
+| Rank | Things |
+|-----:|-----------|
+|     1|成为百大up主|
+|     2|成为apex天才选手|
+|     3|做一个超级吊的我的世界modpacks|
+
+</details>
 - 💞️ 个人运营的服务器
 
       AYW-1.21.4生电服
