@@ -15,5 +15,6 @@
       交流群：965904086
       个人QQ：3341005808
 
-[![baidu]]([http://baidu.com](https://space.bilibili.com/401832715?spm_id_from=333.1007.0.0))  
+[![baidu]](http://baidu.com)  
 [baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"
+
