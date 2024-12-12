@@ -29,8 +29,8 @@
 <details>
 <summary>联系方式</summary>
 
-    交流群：965904086
-    个人QQ：3341005808
+    交流群：[交流群](https://qm.qq.com/q/MqbfCxw12K)
+    个人QQ：[个人QQ](http://wpa.qq.com/msgrd?v=3&uin=3341005808&site=qq&menu=yes)
 
 </details>
   
